@@ -1,7 +1,7 @@
 <a ><img src="https://codemyui.com/wp-content/uploads/2017/05/simple-button-to-popup-modal-window.gif" align="right" height="200"/></a>
 # Modal Window using Javascript 👐
 
-📌[**Modal Window**]() 😉
+📌[**Modal Window**](https://aditya-bhate.github.io/Modal-Window-Js/) 😉
 
 ## About :
 ✏ Made using HTML,CSS and Javascript to manoeuvre DOM Manipulation .
@@ -23,7 +23,7 @@ The HTML DOM model is constructed as a tree of Objects :
 
 ## Output :
 
-<a ><img src=""/></a>
+<a ><img src="https://github.com/Aditya-Bhate/Modal-Window-Js/blob/main/Screenshot%20(2641).png"/></a>
 
  ## Languages used:
 <code><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></code>
